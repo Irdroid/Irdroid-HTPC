@@ -18,6 +18,13 @@ The Irdroid-HTPC is a USB Infrared Remote Control receiver for HTPC media center
 - Kodi addon for activating shortcuts for Favourites and Weather via a single button.
 - Velcro dots for fixing the unit in a position
 
+**Supported Operating Systems**
+-
+- GNU Linux
+- Mac OS X
+- MS Windows
+- Android
+
 In addition to the above the module is open source hardware and software , so if you need to do any changes or fork your own version you are free to do so!
 Its shipped with the micronucleus bootloader, compatible with the Arduino IDE and in a manner of minutes you can do whatever changes you need by simply plugging the usb cable of the device to your pc and changing the code as per your needs.
 Irdroid-HTPC Remote Receiver has a great range and you don’t have to point your remote control directly toward the device it in order to control your media center.
