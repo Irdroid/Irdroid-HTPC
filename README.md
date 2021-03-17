@@ -3,6 +3,7 @@
 **Introduction** 
 
 The Irdroid-HTPC is a USB Infrared Remote Control receiver for HTPC media centers such as  KODI, Plex, Emby, OSMC, Jellyfin, Stremio etc. It enumerates on the host system as a standard HID input device (keyboard) and sends keystrokes to the host system based on the pressed TV remote control key. .(https://irdroid.eu/product/irdroid-htpc-infrared-remote-control-receiver-kodi-alternatives/)
+
 ![Irdroid-HTPC](https://raw.githubusercontent.com/Irdroid/Irdroid-HTPC/main/Photos/irdroid-htpc-universal-infrared-receiver-1%20(Custom).png)
 
 **Features:**
