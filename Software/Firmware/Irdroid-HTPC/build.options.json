@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "digistump:avr:digispark-tiny",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\bakalski\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\bakalski\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10609",
+  "sketchLocation": "C:\\Users\\bakalski\\Documents\\GitHub\\Irdroid-HTPC\\Software\\Firmware\\Irdroid-HTPC\\Irdroid-HTPC.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\bakalski\\AppData\\Local\\Arduino15\\packages"
+}
